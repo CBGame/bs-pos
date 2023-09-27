@@ -2,6 +2,6 @@
   "versionName": "2.0",
   "versionCode": "2",
   "apkUrl": "https://github.com/CBGame/bs-pos/raw/main/releases/download/v2.0.0/rn-bichosorte-apk-2.0.0.apk",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "whatsNew": "<< what changes the app update will bring >>"
 }

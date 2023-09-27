@@ -1,0 +1,7 @@
+{
+  "versionName": "2.0",
+  "versionCode": "2",
+  "apkUrl": "http://10.18.1.232:3333/apkinstall",
+  "forceUpdate": false,
+  "whatsNew": "<< what changes the app update will bring >>"
+}
